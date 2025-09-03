@@ -13,5 +13,5 @@ CLI tools, bash & linux is my chicken soup for the soul. Neovim for the win!
 
 <img src="https://github-stats-wine-eight.vercel.app/api?username=dev99problems" />
 
-<img src="https://github-stats-wine-eight.vercel.app/api/top-langs?username=dev99problems&langs_count=8&layout=compact&hide=astro,html,vim%20script,mdx" />
+<img src="https://github-stats-wine-eight.vercel.app/api/top-langs?username=dev99problems&langs_count=8&layout=compact&hide=astro,html,vim%20script,mdx,css" />
 
